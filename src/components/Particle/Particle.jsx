@@ -53,6 +53,10 @@ function Particle(){
                     color: {
                         value: "#ffffff",
                     },
+                    density: {
+                        enable:true,
+                        value_area: 800
+                    },
                     links: {
                         color: "#ffffff",
                         distance: 150,

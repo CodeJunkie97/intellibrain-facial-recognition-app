@@ -7,7 +7,7 @@ import Particle from './components/Particle/Particle';
 function App() {
   return (
     <div className="App">
-      <Particle />
+      <Particle className = "particle"/>
       <Navigation />
       <Logo />
       <Rank />
